@@ -5,11 +5,16 @@ to find the multiplication of two matrix
 
 ## ALGORITHM:
 
-### Step 1:import numpy
-### Step 2:get the user input
-### Step 3:append the inputs in array
-### Step 4:mutltiply the arrays
-### Step 5:print the product of the array
+### Step 1:
+import numpy
+### Step 2:
+get the user input
+### Step 3:
+append the inputs in array
+### Step 4:
+mutltiply the arrays
+### Step 5:
+print the product of the array
 
 ## PROGRAM: 
 ```python
